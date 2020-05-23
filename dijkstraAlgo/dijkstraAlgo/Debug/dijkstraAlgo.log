@@ -1,0 +1,3 @@
+﻿  DijkstraAlgo_Heap.cpp
+c:\users\양근영\documents\github\algorithm\20algo\dijkstraalgo\dijkstraalgo\dijkstraalgo_heap.cpp(24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  dijkstraAlgo.vcxproj -> C:\Users\양근영\Documents\GitHub\algorithm\20algo\dijkstraAlgo\Debug\dijkstraAlgo.exe
