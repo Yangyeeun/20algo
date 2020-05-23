@@ -1,0 +1,5 @@
+﻿  FloydAlgo.cpp
+c:\users\양근영\documents\github\algorithm\20algo\floydalgo\floydalgo\floydalgo.cpp(18): error C2440: '초기화 중': 'void *'에서 'int **'(으)로 변환할 수 없습니다.
+  c:\users\양근영\documents\github\algorithm\20algo\floydalgo\floydalgo\floydalgo.cpp(18): note: 'void*'에서 'void'가 아닌 포인터로 변환하려면 명시적 캐스트가 필요합니다.
+c:\users\양근영\documents\github\algorithm\20algo\floydalgo\floydalgo\floydalgo.cpp(23): error C2440: '=': 'void *'에서 'int *'(으)로 변환할 수 없습니다.
+  c:\users\양근영\documents\github\algorithm\20algo\floydalgo\floydalgo\floydalgo.cpp(23): note: 'void*'에서 'void'가 아닌 포인터로 변환하려면 명시적 캐스트가 필요합니다.
